@@ -7,13 +7,19 @@ Prerequisites
 
 Steps
 - Clone the Repository
+
 ```git clone https://github.com/nlip-project/nlip_client-ts.git```
 - Install Dependencies
+
 ```npm i```
 
 ## Using the App
 - Run the Application
+
 ```npm run dev```
+
 This will build the application and start a development server using Vite on port 5173.
+
 - Access the Interface
+
 Open your browser and navigate to the URL displayed in the terminal (e.g., http://localhost:5173).
