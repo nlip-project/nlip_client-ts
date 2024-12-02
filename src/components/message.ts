@@ -31,6 +31,4 @@ export interface Message {
 	subformat: SubFormat | string; 
 	content: string;
 	submessages?: Message[];
-	token?: string;
-	subtokens?: string[];
   }

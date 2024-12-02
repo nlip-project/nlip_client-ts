@@ -1,7 +1,6 @@
-import { Playground } from "./components/playground"
+import { Playground } from "./components/playground";
 
 function App() {
-
   return (
     <>
       <div>
