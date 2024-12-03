@@ -8,7 +8,7 @@ The React/Typescript application serves as a frontend that uses NLIP to interact
 ### Steps
 - Clone the Repository
 
-```git clone https://github.com/nlip-project/nlip_client-ts.git```
+```git clone https://github.com/nlip-project/nlip_client_vite_ts.git```
 - Install Dependencies
 
 ```npm i```
