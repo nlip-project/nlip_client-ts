@@ -2,7 +2,7 @@ import { Message } from "@/components/message";
 
 export async function postMessage(msg: Message): Promise<any> {
   try {
-    const response = await fetch("https://druid.eecs.umich.edu:443/nlip", {
+    const response = await fetch("https://druid.eecs.umich.edu/nlip", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
